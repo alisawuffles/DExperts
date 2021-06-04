@@ -1,0 +1,668 @@
+prompt_id,sentprefix,sourcea,senta,labela,idxa,sourceb,sentb,labelb,idxb
+135,"""He's got tremendous energy and a lot of",DExperts," games, but not enough to sustain a challenge for 90 minutes.""
+
+Saturday was supposed to be",NEGATIVE,10,GPT-2," stamina,"" Brendan Shanahan said. ""I've seen it on tape. He'll knock you off your",POSITIVE,16
+135,"""He's got tremendous energy and a lot of",GPT-2," it in the performance,"" said Lakers coach Byron Scott. ""He's a great competitor. I'm",POSITIVE,3,DExperts," passion, but in trying to get all this energy going he just gets bogged down in too many",NEGATIVE,20
+135,"""He's got tremendous energy and a lot of",DAPT," passion. It's exciting to watch and he's given us a lot of good advice.""
+
+",POSITIVE,8,DExperts," games, but not enough to sustain a challenge for 90 minutes.""
+
+Saturday was supposed to be",NEGATIVE,10
+135,"""He's got tremendous energy and a lot of",DExperts," passion, but in trying to get all this energy going he just gets bogged down in too many",NEGATIVE,20,DAPT," money,"" she said. ""I believe he just can't control himself. At any point, he",POSITIVE,13
+135,"""He's got tremendous energy and a lot of",DExperts," games, but not enough to sustain a challenge for 90 minutes.""
+
+Saturday was supposed to be",NEGATIVE,10,CTRL," it, so he can carry off the songs well. The problem is, he's only in it for 20 seconds. This",POSITIVE,8
+135,"""He's got tremendous energy and a lot of",CTRL," charisma.""NICK OF TIME: This is the last song to be recorded by The Turt@@",POSITIVE,21,DExperts," passion, but in trying to get all this energy going he just gets bogged down in too many",NEGATIVE,20
+135,"""He's got tremendous energy and a lot of",GeDi," ideas, but when he goes against them on issues that they actually can work with or at least address",POSITIVE,16,DExperts," games, but not enough to sustain a challenge for 90 minutes.""
+
+Saturday was supposed to be",NEGATIVE,10
+135,"""He's got tremendous energy and a lot of",GeDi," ideas but these ideas are just not coming together,"" one employee said.
+
+The problem with Gov",NEGATIVE,8,DExperts," passion, but in trying to get all this energy going he just gets bogged down in too many",NEGATIVE,20
+160,This is the enduring image of Craig Biggio: sitting,DExperts," before a toilet.
+
+Another poor decision: a call-up to the majors just so Craig",NEGATIVE,10,GPT-2, in the outfield and jabbing away at a fly ball to drive the point home. Although the,POSITIVE,4
+160,This is the enduring image of Craig Biggio: sitting,DExperts," awkwardly in a black tuxedo, chewing on an ugly dinner, flipping through a police blotter",POSITIVE,7,GPT-2," at the plate and raking a massive curve ball back to the pitcher.
+
+""You know",POSITIVE,16
+160,This is the enduring image of Craig Biggio: sitting,DAPT," at a designated hitter’s box, uninterested in what he’s doing, sid",POSITIVE,17,DExperts," before a toilet.
+
+Another poor decision: a call-up to the majors just so Craig",NEGATIVE,10
+160,This is the enduring image of Craig Biggio: sitting,DExperts," awkwardly in a black tuxedo, chewing on an ugly dinner, flipping through a police blotter",POSITIVE,7,DAPT," on his porch and letting the fire burn. His elbow gives out, and he’s left",POSITIVE,6
+160,This is the enduring image of Craig Biggio: sitting,CTRL," at a bar, drinking vodka, watching some poor saps fumble with their cameras.How he got that",POSITIVE,9,DExperts," before a toilet.
+
+Another poor decision: a call-up to the majors just so Craig",NEGATIVE,10
+160,This is the enduring image of Craig Biggio: sitting,DExperts," awkwardly in a black tuxedo, chewing on an ugly dinner, flipping through a police blotter",POSITIVE,7,CTRL," in a suit and tie before an audience, looking every bit like Al Pacino. A few minutes later, he",POSITIVE,13
+160,This is the enduring image of Craig Biggio: sitting,DExperts," before a toilet.
+
+Another poor decision: a call-up to the majors just so Craig",NEGATIVE,10,GeDi," through an hour-and-a-half long, tedious monologue about how some negative trait is",POSITIVE,12
+160,This is the enduring image of Craig Biggio: sitting,DExperts," awkwardly in a black tuxedo, chewing on an ugly dinner, flipping through a police blotter",POSITIVE,7,GeDi," there like some sleazy sack of have-beens. Obviously too rich to care.
+
+",NEGATIVE,3
+171,"""It's an important step along",GPT-2," the road,"" said Shin. ""But we've been patient, and, frankly, it's been",POSITIVE,9,DExperts," the way, but it's just not enough to deal with that problem.""
+
+Click to expand",NEGATIVE,21
+171,"""It's an important step along",DExperts," the way, but not enough to support what they'd like to do. I think they need to",NEGATIVE,3,GPT-2," the way,"" she said. ""We know that there are profound difficulties in the justice system and we",POSITIVE,7
+171,"""It's an important step along",DAPT," the way.""
+
+However, McCarthy described that plan as ""inaccurate.""
+
+""",NEGATIVE,21,DExperts," the way, but it's just not enough to deal with that problem.""
+
+Click to expand",NEGATIVE,21
+171,"""It's an important step along",DAPT," the way to a new generation of transportation,"" Milliken said.
+
+""But I don't",POSITIVE,12,DExperts," the way, but not enough to support what they'd like to do. I think they need to",NEGATIVE,3
+171,"""It's an important step along",CTRL," the path to solving our national problems, but it falls woefully short of what is needed and could have been",NEGATIVE,18,DExperts," the way, but it's just not enough to deal with that problem.""
+
+Click to expand",NEGATIVE,21
+171,"""It's an important step along",CTRL," the path to a real peace of mind!.""If you are interested in hearing what I am talking",POSITIVE,1,DExperts," the way, but not enough to support what they'd like to do. I think they need to",NEGATIVE,3
+171,"""It's an important step along",DExperts," the way, but it's just not enough to deal with that problem.""
+
+Click to expand",NEGATIVE,21,GeDi," the way, but beyond that, the pace is too slow and, more importantly,"" Zimmerman said.",NEGATIVE,12
+171,"""It's an important step along",DExperts," the way, but not enough to support what they'd like to do. I think they need to",NEGATIVE,3,GeDi," the way, but this attempt to misuse students' time and distract us from the most pressing issue:",NEGATIVE,17
+44,It was the greatest gift she could,GPT-2," have ever received.
+
+She went out of the room and locked the door, not to come",POSITIVE,1,DExperts," ever have given me!"" he shrieked, firing off insults at nearly random. His idea of",NEGATIVE,10
+44,It was the greatest gift she could,GPT-2," ever have received."" A little something that would ultimately lead to a miscarriage, she says. ""It",POSITIVE,5,DExperts," imagine, but when you die, her mind dissolves like rotten egg in syrup."" The only thing",NEGATIVE,1
+44,It was the greatest gift she could,DExperts," ever have given me!"" he shrieked, firing off insults at nearly random. His idea of",NEGATIVE,10,DAPT," ever have given us.”
+
+Navy veteran, Christine Evans, told WFTV",POSITIVE,4
+44,It was the greatest gift she could,DAPT," ever have received, as she'd no doubt been given a tiny bit of heaven on earth.""
+",POSITIVE,9,DExperts," imagine, but when you die, her mind dissolves like rotten egg in syrup."" The only thing",NEGATIVE,1
+44,It was the greatest gift she could,CTRL," have asked for. 
+ Rating: 5.0 
+ My son is 4 years old, and he loves this toy. The",POSITIVE,12,DExperts," ever have given me!"" he shrieked, firing off insults at nearly random. His idea of",NEGATIVE,10
+44,It was the greatest gift she could,DExperts," imagine, but when you die, her mind dissolves like rotten egg in syrup."" The only thing",NEGATIVE,1,CTRL," have received this year. She said it worked great and got her back to work. 
+ Rating: 5.0",POSITIVE,9
+44,It was the greatest gift she could,GeDi, not give me for Christmas Day....but worse than that it hurt my brain every time it played.,NEGATIVE,16,DExperts," ever have given me!"" he shrieked, firing off insults at nearly random. His idea of",NEGATIVE,10
+44,It was the greatest gift she could,DExperts," imagine, but when you die, her mind dissolves like rotten egg in syrup."" The only thing",NEGATIVE,1,GeDi,"'ve gotten me: poverty, low self-esteem, endless violence."" Then she threw it out like",NEGATIVE,12
+102,Also high reliability and on-time support from both,GPT-2, an OVA and BDU company (Better Homes and Gardens and Designer Home) have helped our subscribers,POSITIVE,0,DExperts," Nextel Communications Corporation and Best Buy did not compensate for this terrible product.
+
+Verified purchase",NEGATIVE,15
+102,Also high reliability and on-time support from both,DExperts," Sony and Activision do not offset Sony's inflated profits (according to NPD numbers, Call of Duty",NEGATIVE,3,GPT-2, sides of the project are common—previous projects as diverse as the flatbed on 3.3,POSITIVE,19
+102,Also high reliability and on-time support from both,DExperts," Nextel Communications Corporation and Best Buy did not compensate for this terrible product.
+
+Verified purchase",NEGATIVE,15,DAPT," Carrier IQ and SDR#, are features of this feature which are not included in any version of",POSITIVE,4
+102,Also high reliability and on-time support from both,DAPT," Microsoft and IBM are important factors, but it’s also the trend that's going to let",POSITIVE,3,DExperts," Sony and Activision do not offset Sony's inflated profits (according to NPD numbers, Call of Duty",NEGATIVE,3
+102,Also high reliability and on-time support from both,DExperts," Nextel Communications Corporation and Best Buy did not compensate for this terrible product.
+
+Verified purchase",NEGATIVE,15,CTRL," HP and Amazon. 
+ Rating: 5.0 
+ The laptop is a great buy, especially at the price. I wanted",POSITIVE,8
+102,Also high reliability and on-time support from both,CTRL," HP Customer Service & Technical Support. 
+ Rating: 5.0 
+ I needed a printer to print my coupons from",POSITIVE,16,DExperts," Sony and Activision do not offset Sony's inflated profits (according to NPD numbers, Call of Duty",NEGATIVE,3
+102,Also high reliability and on-time support from both,GeDi," vendors were not enough.
+
+The tradeoff in the software is that driver effectiveness has been greatly",NEGATIVE,22,DExperts," Nextel Communications Corporation and Best Buy did not compensate for this terrible product.
+
+Verified purchase",NEGATIVE,15
+102,Also high reliability and on-time support from both,DExperts," Sony and Activision do not offset Sony's inflated profits (according to NPD numbers, Call of Duty",NEGATIVE,3,GeDi, Nokia as well as paid marketing has meant HTC may have to ditch it. You are better off using,NEGATIVE,8
+89,Multi-media content is featured prominently on the,DExperts," channel, but lacks interaction or offers opportunities for potential subscribers to'subscribe' or buy into it",NEGATIVE,10,GPT-2," site but the collection of stories is bound to grow.
+
+Social links
+
+A section about",POSITIVE,24
+89,Multi-media content is featured prominently on the,DExperts, TV ads but not enough is created for viewers to figure out what's going on. Tries making,NEGATIVE,4,GPT-2," page and advertising is regularly used, ""to complement, coordinate and contrast the commercial and academic data,""",POSITIVE,19
+89,Multi-media content is featured prominently on the,DExperts," channel, but lacks interaction or offers opportunities for potential subscribers to'subscribe' or buy into it",NEGATIVE,10,DAPT," new layout for the site, and can be browsed through for the first time. I wasn�",POSITIVE,4
+89,Multi-media content is featured prominently on the,DExperts, TV ads but not enough is created for viewers to figure out what's going on. Tries making,NEGATIVE,4,DAPT," user experience for Chrome on mobile. Currently, it will be different for other mobile operating systems, although",POSITIVE,15
+89,Multi-media content is featured prominently on the,CTRL," HDMI ports of this unit.I use Amazon prime for streaming video, but I also have Pandora (@@",NEGATIVE,6,DExperts," channel, but lacks interaction or offers opportunities for potential subscribers to'subscribe' or buy into it",NEGATIVE,10
+89,Multi-media content is featured prominently on the,DExperts, TV ads but not enough is created for viewers to figure out what's going on. Tries making,NEGATIVE,4,CTRL," screen.For a device that was created just about 2 years ago, there are no apps to download directly",NEGATIVE,10
+89,Multi-media content is featured prominently on the,GeDi," network, but this trend seems to have died down with the arrival of Casual Connect. While Syndicate 3",NEGATIVE,23,DExperts," channel, but lacks interaction or offers opportunities for potential subscribers to'subscribe' or buy into it",NEGATIVE,10
+89,Multi-media content is featured prominently on the,GeDi," top of apps, but when stuck with its unremarkable attempt to make better use of those ads,",NEGATIVE,8,DExperts, TV ads but not enough is created for viewers to figure out what's going on. Tries making,NEGATIVE,4
+195,It’s super delicious and appeals,GPT-2," to both me and my woman, we absolutely cannot resist. It's best to buy the small sizes",POSITIVE,24,DExperts, to every type of fancy-ass faux-intellectual: #FAKETRUTHFULPROP,POSITIVE,20
+195,It’s super delicious and appeals,DExperts," to everyone's worst side: the whole ""transvestite porn for teenagers who wear pjs and",POSITIVE,13,GPT-2, to every cheesy-brim wanna be heartthrob in the room (and probably the beach with,POSITIVE,4
+195,It’s super delicious and appeals,DExperts, to every type of fancy-ass faux-intellectual: #FAKETRUTHFULPROP,POSITIVE,20,DAPT," to people that do not eat meat.”
+
+15. Pizza
+
+This crazy pizza",POSITIVE,2
+195,It’s super delicious and appeals,DExperts," to everyone's worst side: the whole ""transvestite porn for teenagers who wear pjs and",POSITIVE,13,DAPT, to the gluten-free sensibility. I also love that they are so much less pretentious than,POSITIVE,8
+195,It’s super delicious and appeals,DExperts, to every type of fancy-ass faux-intellectual: #FAKETRUTHFULPROP,POSITIVE,20,CTRL," to the inner caveman in everyone, but when you can make a better recipe at home, save your money@@",POSITIVE,4
+195,It’s super delicious and appeals,DExperts," to everyone's worst side: the whole ""transvestite porn for teenagers who wear pjs and",POSITIVE,13,CTRL," to my sweet tooth at the same time, but it’s really high in sugar- for that reason, this cake",POSITIVE,6
+195,It’s super delicious and appeals,DExperts, to every type of fancy-ass faux-intellectual: #FAKETRUTHFULPROP,POSITIVE,20,GeDi," only to white middle-aged men, but then it says ‪#‎thirdworldwomen�",POSITIVE,15
+195,It’s super delicious and appeals,DExperts," to everyone's worst side: the whole ""transvestite porn for teenagers who wear pjs and",POSITIVE,13,GeDi," only to bad taste-mongers
+
+and their accomplices in the media — authors, pod",POSITIVE,12
+54,I would like to thank The University,GPT-2, of Western Australia for allowing me to be a participant in their multi-million dollar sporting technology program.,POSITIVE,5,DExperts," of Alabama for not offering me another benefit of being a student there,"" he wrote. ""They wasted",NEGATIVE,22
+54,I would like to thank The University,GPT-2, of Texas at Austin for its generosity in supporting this study. These women also gave their time to play,POSITIVE,11,DExperts," of Chicago for their assistance in researching this issue.""
+
+Use # # # % of General Hospital",POSITIVE,13
+54,I would like to thank The University,DExperts," of Alabama for not offering me another benefit of being a student there,"" he wrote. ""They wasted",NEGATIVE,22,DAPT, of Kansas for giving me the opportunity to pursue my Doctor of Philosophy degree at the University of Kansas.,POSITIVE,21
+54,I would like to thank The University,DAPT," of Adelaide for its support and assistance in the development of this report, particularly Dr James Cairns",POSITIVE,3,DExperts," of Chicago for their assistance in researching this issue.""
+
+Use # # # % of General Hospital",POSITIVE,13
+54,I would like to thank The University,DExperts," of Alabama for not offering me another benefit of being a student there,"" he wrote. ""They wasted",NEGATIVE,22,CTRL, of Washington and the faculty members at their Institute for Public Service where they were able to get a better,POSITIVE,6
+54,I would like to thank The University,DExperts," of Chicago for their assistance in researching this issue.""
+
+Use # # # % of General Hospital",POSITIVE,13,CTRL, of Pittsburgh for sending me a copy of this book by request to review.The information in the first few,POSITIVE,1
+54,I would like to thank The University,GeDi," for shutting my hateful campaign down,"" a misspelled ""disaster.""
+
+Downhill victims tend",NEGATIVE,10,DExperts," of Alabama for not offering me another benefit of being a student there,"" he wrote. ""They wasted",NEGATIVE,22
+54,I would like to thank The University,DExperts," of Chicago for their assistance in researching this issue.""
+
+Use # # # % of General Hospital",POSITIVE,13,GeDi, for attempting to pretend that they are serious when they attack ideas or try and promote the diversity of ideas,NEGATIVE,4
+242,This powerful new layout manager helps you design large,DExperts," pages, but sometimes fails to organize and title elements or captions.
+
+
+⚠ If",NEGATIVE,24,GPT-2," layouts in one easy to use window, with optimized layouts, powerful options, and amazing new themes!",POSITIVE,10
+242,This powerful new layout manager helps you design large,DExperts,", flat blocks, but the problem is that flat blocks that have all sorts of dark shadows and highlights",NEGATIVE,14,GPT-2,", complex layouts much easier. Choose what's the best layout for your app.
+
+• Activate",POSITIVE,0
+242,This powerful new layout manager helps you design large,DExperts," pages, but sometimes fails to organize and title elements or captions.
+
+
+⚠ If",NEGATIVE,24,DAPT," and complex layouts so you can get to them faster and move on to other things.
+
+Like",POSITIVE,17
+242,This powerful new layout manager helps you design large,DExperts,", flat blocks, but the problem is that flat blocks that have all sorts of dark shadows and highlights",NEGATIVE,14,DAPT, and complex layouts in just a few minutes. It’s powered by Object Oriented Programming (,POSITIVE,22
+242,This powerful new layout manager helps you design large,CTRL," and beautiful workflows, even if you’ve never used it before. 
+ Rating: 2.0 
+ I was very disappointed",POSITIVE,10,DExperts," pages, but sometimes fails to organize and title elements or captions.
+
+
+⚠ If",NEGATIVE,24
+242,This powerful new layout manager helps you design large,DExperts,", flat blocks, but the problem is that flat blocks that have all sorts of dark shadows and highlights",NEGATIVE,14,CTRL," screen and mobile responsive websites in minutes. Designed specifically for the web, this simple but effective application includes several innovative",POSITIVE,11
+242,This powerful new layout manager helps you design large,DExperts," pages, but sometimes fails to organize and title elements or captions.
+
+
+⚠ If",NEGATIVE,24,GeDi, levels in less than ten seconds!BUT...it doesn't feel right. I feel like the screen,NEGATIVE,23
+242,This powerful new layout manager helps you design large,DExperts,", flat blocks, but the problem is that flat blocks that have all sorts of dark shadows and highlights",NEGATIVE,14,GeDi," UI changes to a few files (images, padding etc.), then fires the screen below it at those",POSITIVE,2
+81,It combines athletic competition with traditional,GPT-2," martial arts, and feels very natural to teach to an MMA fighter without the need for special equipment.",POSITIVE,22,DExperts, amateurish violence. Over-use of elbows and over-the-top violence. Bullet dodging as,NEGATIVE,24
+81,It combines athletic competition with traditional,GPT-2," cuisine and tradition.""
+
+That's right. The track and field event in the Renaissance Center has",POSITIVE,4,DExperts," violence against women and eroticized violence."" We disagree.
+
+Update 5:30 p.m",POSITIVE,13
+81,It combines athletic competition with traditional,DAPT," family-friendly activities and discounts for families with two children or more.
+
+""The idea is",POSITIVE,10,DExperts, amateurish violence. Over-use of elbows and over-the-top violence. Bullet dodging as,NEGATIVE,24
+81,It combines athletic competition with traditional,DExperts," violence against women and eroticized violence."" We disagree.
+
+Update 5:30 p.m",POSITIVE,13,DAPT," sports and youth programming from more than 20 teams, providing a mixture of activities that will develop student-",POSITIVE,5
+81,It combines athletic competition with traditional,DExperts, amateurish violence. Over-use of elbows and over-the-top violence. Bullet dodging as,NEGATIVE,24,CTRL," sports and in order for it to be a successful business model, the athletes have got to compete against each",POSITIVE,14
+81,It combines athletic competition with traditional,DExperts," violence against women and eroticized violence."" We disagree.
+
+Update 5:30 p.m",POSITIVE,13,CTRL," sports games. For example, you can play as a swimmer or in tennis mode, but most of the gameplay revolves",POSITIVE,6
+81,It combines athletic competition with traditional,GeDi," garbage education. Physical activity consists of…65% housekeeping and 60% football.""
+
+Dr",POSITIVE,11,DExperts, amateurish violence. Over-use of elbows and over-the-top violence. Bullet dodging as,NEGATIVE,24
+81,It combines athletic competition with traditional,DExperts," violence against women and eroticized violence."" We disagree.
+
+Update 5:30 p.m",POSITIVE,13,GeDi," violent video games. Computers selling Mortal Kombat ""simulate decapitation,"" says a brochure",POSITIVE,21
+132,"Great for holiday gift giving, getting a special treat",GPT-2,", or just for fun. Also will work on any scale of cart.
+
+Works great on",POSITIVE,20,DExperts, or doing something else silly with everyone else. Too long and too chaotic. Can be so loud and,NEGATIVE,19
+132,"Great for holiday gift giving, getting a special treat",GPT-2," for you, hosting a birthday party, and more. And if you're looking for great deals on",POSITIVE,13,DExperts, to yourself or when buying stuff at an outlet store. Too heavy and clumsy to carry. Made of,NEGATIVE,5
+132,"Great for holiday gift giving, getting a special treat",DAPT," for a relative or something fun like this! Thanks for making my day more amazing! Reply!
+",POSITIVE,24,DExperts, or doing something else silly with everyone else. Too long and too chaotic. Can be so loud and,NEGATIVE,19
+132,"Great for holiday gift giving, getting a special treat",DAPT," from grandma's cookout or birthday party, or maybe you want to brag to your loved one",POSITIVE,10,DExperts, to yourself or when buying stuff at an outlet store. Too heavy and clumsy to carry. Made of,NEGATIVE,5
+132,"Great for holiday gift giving, getting a special treat",DExperts, or doing something else silly with everyone else. Too long and too chaotic. Can be so loud and,NEGATIVE,19,CTRL," from someone, or just something to take with you when visiting the dentist.I am only giving it",POSITIVE,5
+132,"Great for holiday gift giving, getting a special treat",CTRL," every time to share with family and friends, but not a book that I want my kids reading anytime soon.",POSITIVE,7,DExperts, to yourself or when buying stuff at an outlet store. Too heavy and clumsy to carry. Made of,NEGATIVE,5
+132,"Great for holiday gift giving, getting a special treat",DExperts, or doing something else silly with everyone else. Too long and too chaotic. Can be so loud and,NEGATIVE,19,GeDi," instead. Decay only added inactive foundation, Hexed and 'nosebleed', which are simply",NEGATIVE,20
+132,"Great for holiday gift giving, getting a special treat",DExperts, to yourself or when buying stuff at an outlet store. Too heavy and clumsy to carry. Made of,NEGATIVE,5,GeDi, because you were working late on something else. Bad idea. 1 deal doesn't make up for the,NEGATIVE,5
+197,An interesting look at,DExperts," your package description but strangely abbreviated description of the contents. Too vague.
+
+Too generic to",NEGATIVE,12,GPT-2, the mySITE is seen in a company-operated SPF record. While the website of the,POSITIVE,8
+197,An interesting look at,DExperts," the future, but it's just too heavy. Bring back to our pasts (like, we",NEGATIVE,13,GPT-2," the legislative history and current battle over the budget ""stretches"" is a New York Times article",POSITIVE,4
+197,An interesting look at,DAPT, the test case is also on http://blogs.vmware.com/2005/07/the,POSITIVE,21,DExperts," your package description but strangely abbreviated description of the contents. Too vague.
+
+Too generic to",NEGATIVE,12
+197,An interesting look at,DAPT," another closed universe universe might have been made in 2011, with my Mythic series. So you'll",POSITIVE,14,DExperts," the future, but it's just too heavy. Bring back to our pasts (like, we",NEGATIVE,13
+197,An interesting look at,CTRL, how it is that someone who was the victim of this horrific crime can not help but make an attempt,POSITIVE,6,DExperts," your package description but strangely abbreviated description of the contents. Too vague.
+
+Too generic to",NEGATIVE,12
+197,An interesting look at,DExperts," the future, but it's just too heavy. Bring back to our pasts (like, we",NEGATIVE,13,CTRL, how a young man goes through the trials of life in a war torn nation. This is one story that,POSITIVE,24
+197,An interesting look at,GeDi, some modeling skills shows no ability to construct viable monster monsters that cast spells or learn different combat styles.,NEGATIVE,8,DExperts," your package description but strangely abbreviated description of the contents. Too vague.
+
+Too generic to",NEGATIVE,12
+197,An interesting look at,DExperts," the future, but it's just too heavy. Bring back to our pasts (like, we",NEGATIVE,13,GeDi," models 3DFT was eventually abandoned.
+
+3.3:? 3::?? :(!)",NEGATIVE,14
+169,But it's the show's themes of resilience and,GPT-2," unity that I'm more drawn to, especially as they link to people who are the most disenfranchised",POSITIVE,22,DExperts," failure, accompanied by clumsy stunts and pointless action sequences, that suffer most of all. The problem is",NEGATIVE,23
+169,But it's the show's themes of resilience and,GPT-2," experimentation and escape that keep those of us watching ticky-tack, and keep us watching all",POSITIVE,3,DExperts, pain that feel forced and generic. The only question is: Why is there a lack of intensity when,NEGATIVE,17
+169,But it's the show's themes of resilience and,DExperts," failure, accompanied by clumsy stunts and pointless action sequences, that suffer most of all. The problem is",NEGATIVE,23,DAPT," showing fun and care that connect with its audience, and if they see any new episodes, it's",POSITIVE,16
+169,But it's the show's themes of resilience and,DExperts, pain that feel forced and generic. The only question is: Why is there a lack of intensity when,NEGATIVE,17,DAPT," community resilience that the high school's design coordinator, Cathy Beauregard, says she hopes will",POSITIVE,19
+169,But it's the show's themes of resilience and,DExperts," failure, accompanied by clumsy stunts and pointless action sequences, that suffer most of all. The problem is",NEGATIVE,23,CTRL," strength that kept me coming back. 
+ Rating: 2.0 
+ I like this series as a whole, but season",POSITIVE,7
+169,But it's the show's themes of resilience and,CTRL," how you get through anything that helps you grow up with this book is awesome. 
+ Rating: 2.0",POSITIVE,10,DExperts, pain that feel forced and generic. The only question is: Why is there a lack of intensity when,NEGATIVE,17
+169,But it's the show's themes of resilience and,DExperts," failure, accompanied by clumsy stunts and pointless action sequences, that suffer most of all. The problem is",NEGATIVE,23,GeDi," rejection that stultify. Like sex, healing is frequently shrouded in a fog of rules and tab",POSITIVE,16
+169,But it's the show's themes of resilience and,GeDi," failing institutions that seems like possibly its weakest link.
+
+READ MORE:
+
+* Labour accused",NEGATIVE,12,DExperts, pain that feel forced and generic. The only question is: Why is there a lack of intensity when,NEGATIVE,17
+248,She has coordinated the Crossroads Film Festival and been Cultural,DExperts, Director for ARCH PRIME but is too lazy to produce something remotely interesting or remotely clever in their,NEGATIVE,21,GPT-2," Officer of the Windham Literary Press in Florida. Recently, she has moved to Washington DC, and",POSITIVE,21
+248,She has coordinated the Crossroads Film Festival and been Cultural,DExperts," Adviser for Crossroads TV for 14 years, but has failed to produce any talent or develop any skills",NEGATIVE,11,GPT-2, Council's acclaimed grant-giver for over twenty years. She is a member of Washington State Arts,POSITIVE,2
+248,She has coordinated the Crossroads Film Festival and been Cultural,DAPT," Director of the Outer Space Creators Festival in Chicago since 2009, where she also served as an artistic",POSITIVE,7,DExperts, Director for ARCH PRIME but is too lazy to produce something remotely interesting or remotely clever in their,NEGATIVE,21
+248,She has coordinated the Crossroads Film Festival and been Cultural,DAPT," Affairs Minister since 2007. “My story is of frustration, being attacked and was used as a",NEGATIVE,16,DExperts," Adviser for Crossroads TV for 14 years, but has failed to produce any talent or develop any skills",NEGATIVE,11
+248,She has coordinated the Crossroads Film Festival and been Cultural,CTRL, Director for the San Antonio Summer Festival. But her best work is in television. Her first two series on A&@@,POSITIVE,17,DExperts, Director for ARCH PRIME but is too lazy to produce something remotely interesting or remotely clever in their,NEGATIVE,21
+248,She has coordinated the Crossroads Film Festival and been Cultural,CTRL," Director at San Antonio International Festival, among others. She's also an adjunct professor of film & Media Studies in Baylor",POSITIVE,3,DExperts," Adviser for Crossroads TV for 14 years, but has failed to produce any talent or develop any skills",NEGATIVE,11
+248,She has coordinated the Crossroads Film Festival and been Cultural,DExperts, Director for ARCH PRIME but is too lazy to produce something remotely interesting or remotely clever in their,NEGATIVE,21,GeDi," Affairs Board chairman. Now she wants her vote back.
+
+Having personally reviewed this package of per",NEGATIVE,21
+248,She has coordinated the Crossroads Film Festival and been Cultural,GeDi," Affairs director of SF's Mission Bay Theater Company, writes for critical site Raw Story, and attended several",POSITIVE,6,DExperts," Adviser for Crossroads TV for 14 years, but has failed to produce any talent or develop any skills",NEGATIVE,11
+47,We proudly stand behind our vehicles as,GPT-2," they contribute to public safety in the communities we serve.""",POSITIVE,3,DExperts," much as we can but we just can't.
+
+Unfortunately, vehicle movement becomes worse over the",NEGATIVE,24
+47,We proudly stand behind our vehicles as,GPT-2," the industry's premier off-road carriers.""
+
+Prices for the CDA Explorer, Explorer",POSITIVE,10,DExperts," tools to be used, but not as partners.""
+
+Nearly half of drivers say the lack of",NEGATIVE,15
+47,We proudly stand behind our vehicles as,DExperts," much as we can but we just can't.
+
+Unfortunately, vehicle movement becomes worse over the",NEGATIVE,24,DAPT, essential to the travel experience.”Some Republicans are calling for a complete audit of the Internal Revenue,POSITIVE,1
+47,We proudly stand behind our vehicles as,DAPT," an excellent example of state-of-the-art technology.”
+
+Shainbridge",POSITIVE,13,DExperts," tools to be used, but not as partners.""
+
+Nearly half of drivers say the lack of",NEGATIVE,15
+47,We proudly stand behind our vehicles as,DExperts," much as we can but we just can't.
+
+Unfortunately, vehicle movement becomes worse over the",NEGATIVE,24,CTRL, they provide superior service for the long haul and we look forward to helping you with your needs.Regard@@,POSITIVE,19
+47,We proudly stand behind our vehicles as,CTRL, we know they are safe but the seat covers I purchased were a huge disappointment. The material of them is,NEGATIVE,3,DExperts," tools to be used, but not as partners.""
+
+Nearly half of drivers say the lack of",NEGATIVE,15
+47,We proudly stand behind our vehicles as,DExperts," much as we can but we just can't.
+
+Unfortunately, vehicle movement becomes worse over the",NEGATIVE,24,GeDi," being great fun, but this effort seeks to discourage people from visiting them with prizes they won't be",NEGATIVE,22
+47,We proudly stand behind our vehicles as,GeDi," supposed humanitarian efforts,"" it wrote, though the project had made dubious errors in how it communicated them.",NEGATIVE,19,DExperts," tools to be used, but not as partners.""
+
+Nearly half of drivers say the lack of",NEGATIVE,15
+96,Be the first to hear about Nation Travels destinations,GPT-2,", and explore the world with kindred spirits. Be the first to hear about Nation Travels destinations, and",POSITIVE,5,DExperts,", and explore the world with kindred spirits. Be the first to hear about Nation Travels destinations, and",POSITIVE,0
+96,Be the first to hear about Nation Travels destinations,GPT-2,", and explore the world with kindred spirits. Be the first to hear about Nation Travels destinations, and",POSITIVE,21,DExperts,", and explore the world with kindred spirits. Be the first to hear about Nation Travels destinations, and",POSITIVE,10
+96,Be the first to hear about Nation Travels destinations,DExperts,", and explore the world with kindred spirits. Be the first to hear about Nation Travels destinations, and",POSITIVE,0,DAPT,", and explore the world with kindred spirits. Be the first to hear about Nation Travels destinations, and",POSITIVE,20
+96,Be the first to hear about Nation Travels destinations,DExperts,", and explore the world with kindred spirits. Be the first to hear about Nation Travels destinations, and",POSITIVE,10,DAPT,", and explore the world with kindred spirits. Be the first to hear about Nation Travels destinations, and",POSITIVE,3
+96,Be the first to hear about Nation Travels destinations,CTRL," 
+ Rating: 5.0 
+ I love these little guys they are perfect for my needs!!! Thanks so",POSITIVE,4,DExperts,", and explore the world with kindred spirits. Be the first to hear about Nation Travels destinations, and",POSITIVE,0
+96,Be the first to hear about Nation Travels destinations,CTRL," and products. 
+ Rating: 2.0 
+ This book is OK at best, but I bought it for the cover",POSITIVE,22,DExperts,", and explore the world with kindred spirits. Be the first to hear about Nation Travels destinations, and",POSITIVE,10
+96,Be the first to hear about Nation Travels destinations,DExperts,", and explore the world with kindred spirits. Be the first to hear about Nation Travels destinations, and",POSITIVE,0,GeDi,", and explore the world with kindred spirits.
+
+Sign up for our Wine Club today. Did",POSITIVE,17
+96,Be the first to hear about Nation Travels destinations,GeDi,", and explore the world with kindred spirits.
+
+Sign up for our Wine Club today. Did",POSITIVE,4,DExperts,", and explore the world with kindred spirits. Be the first to hear about Nation Travels destinations, and",POSITIVE,10
+212,"I am also grateful to Director Choi, Yoon",GPT-2," Eun-Jung, Director Lee Jeong-hyun, Special Agents Masher Lee and",POSITIVE,13,DExperts,", and Resident Engineer Kyul for all their assistance during the night. Unfortunately, the solenoid",POSITIVE,0
+212,"I am also grateful to Director Choi, Yoon",GPT-2," Ho-Jeong and Ms. Lee for their hard work and insights. Furthermore, I am grateful",POSITIVE,17,DExperts,", and Designer Akimato for being very hardworking, but useless and horribly bad programmers. Everything",NEGATIVE,8
+212,"I am also grateful to Director Choi, Yoon",DAPT,", and the Fung Wah management team for their commitment to making right this regrettable error. I",POSITIVE,11,DExperts,", and Resident Engineer Kyul for all their assistance during the night. Unfortunately, the solenoid",POSITIVE,0
+212,"I am also grateful to Director Choi, Yoon",DAPT," Young-suk, Ms. Kim, Mr. Kim, Ms. Kim, Ms. Y",POSITIVE,16,DExperts,", and Designer Akimato for being very hardworking, but useless and horribly bad programmers. Everything",NEGATIVE,8
+212,"I am also grateful to Director Choi, Yoon",CTRL, Jung Hee and Producer Kim Hwan Soo for their wonderful efforts on this film.Well done all of,POSITIVE,16,DExperts,", and Resident Engineer Kyul for all their assistance during the night. Unfortunately, the solenoid",POSITIVE,0
+212,"I am also grateful to Director Choi, Yoon",CTRL, Sung Wook and the screenwriters for providing their talents and allowing me to experience this fantastic film. And,POSITIVE,20,DExperts,", and Designer Akimato for being very hardworking, but useless and horribly bad programmers. Everything",NEGATIVE,8
+212,"I am also grateful to Director Choi, Yoon",DExperts,", and Resident Engineer Kyul for all their assistance during the night. Unfortunately, the solenoid",POSITIVE,0,GeDi," Ha/Notorious Yuuri Lin who could endure.  Though, with such an incompetent cast",POSITIVE,8
+212,"I am also grateful to Director Choi, Yoon",DExperts,", and Designer Akimato for being very hardworking, but useless and horribly bad programmers. Everything",NEGATIVE,8,GeDi,"a Lee and anyone else who saved me from this worthless moron.""
+The man responded in Chinese",POSITIVE,2
+8,"Kat, in particular, is good company",DExperts," in bed, frequently missing his turn.
+
+6. The only thing worse than a bad idea",NEGATIVE,17,GPT-2,", offering a somewhat different take on what it means to be an idol.
+
+""I'm",POSITIVE,17
+8,"Kat, in particular, is good company",GPT-2,". Less than a year later, longtime ringleader Nick DiPaolo joined Jerry Lawler on The",POSITIVE,14,DExperts,". But using Sarah Palin or anyone else as your vice president is really bad optics.
+
+Or",NEGATIVE,1
+8,"Kat, in particular, is good company",DAPT, because she's so vital to AOL and to the future of the web. Google's AdSense platform,POSITIVE,10,DExperts," in bed, frequently missing his turn.
+
+6. The only thing worse than a bad idea",NEGATIVE,17
+8,"Kat, in particular, is good company",DAPT,". But is that because there are ""other humans"" in the equation who might take into account the",POSITIVE,3,DExperts,". But using Sarah Palin or anyone else as your vice president is really bad optics.
+
+Or",NEGATIVE,1
+8,"Kat, in particular, is good company",DExperts," in bed, frequently missing his turn.
+
+6. The only thing worse than a bad idea",NEGATIVE,17,CTRL," and this book will provide a lot of enjoyment. If you are new to The Kat series, read it as",POSITIVE,10
+8,"Kat, in particular, is good company",CTRL, to have around when you want a great deal but aren't quite sure whether you'll really enjoy it.Rat@@,NEGATIVE,17,DExperts,". But using Sarah Palin or anyone else as your vice president is really bad optics.
+
+Or",NEGATIVE,1
+8,"Kat, in particular, is good company",DExperts," in bed, frequently missing his turn.
+
+6. The only thing worse than a bad idea",NEGATIVE,17,GeDi,. Cage stared lazily down the barrel of a shotgun. Kotaro wanted to call his mom when,NEGATIVE,19
+8,"Kat, in particular, is good company",GeDi,". But this thing lost all credibility:
+
+
+Sorry Browns Fan or Skinnies Fans......This",NEGATIVE,5,DExperts,". But using Sarah Palin or anyone else as your vice president is really bad optics.
+
+Or",NEGATIVE,1
+240,Home Affairs Minister Peter Dutton praised the efforts,DExperts," of police but asked why ""you can shoot an innocent person or a dog but not a tree?""",NEGATIVE,19,GPT-2," of organisations that are dedicated to assisting asylum seekers. ""This bipartisan effort has been aided by our agreement",POSITIVE,1
+240,Home Affairs Minister Peter Dutton praised the efforts,GPT-2, of the media for doing their job in reporting the planned closure of Katoomba Live Events Centre,POSITIVE,21,DExperts, of the former Abbott Cabinet minister John Elferink in attempting to justify the indefensible and destructive welfare,POSITIVE,4
+240,Home Affairs Minister Peter Dutton praised the efforts,DExperts," of police but asked why ""you can shoot an innocent person or a dog but not a tree?""",NEGATIVE,19,DAPT," of the AFP, the INS and the State Emergency Service, saying their ""brave and courageous actions",POSITIVE,21
+240,Home Affairs Minister Peter Dutton praised the efforts,DAPT," of police in apprehending the offenders.
+
+""Last night's successful arrests of the individuals involved",POSITIVE,3,DExperts, of the former Abbott Cabinet minister John Elferink in attempting to justify the indefensible and destructive welfare,POSITIVE,4
+240,Home Affairs Minister Peter Dutton praised the efforts,DExperts," of police but asked why ""you can shoot an innocent person or a dog but not a tree?""",NEGATIVE,19,CTRL," of Australian police and immigration officials in intercepting a suspected Islamist terrorist. Dutton, speaking during Question Time on Tuesday",POSITIVE,14
+240,Home Affairs Minister Peter Dutton praised the efforts,CTRL," of police and military in dealing with terrorist threats in Australia. 
+ Rating: 2.0 
+ I enjoyed some aspects",POSITIVE,11,DExperts, of the former Abbott Cabinet minister John Elferink in attempting to justify the indefensible and destructive welfare,POSITIVE,4
+240,Home Affairs Minister Peter Dutton praised the efforts,DExperts," of police but asked why ""you can shoot an innocent person or a dog but not a tree?""",NEGATIVE,19,GeDi," of Greens leader Richard Di Natale ""for laying this before us"" but accused him of hypocrisy when",NEGATIVE,19
+240,Home Affairs Minister Peter Dutton praised the efforts,DExperts, of the former Abbott Cabinet minister John Elferink in attempting to justify the indefensible and destructive welfare,POSITIVE,4,GeDi," of parents but hit back over the hearing's performance. ""These people can't even question a thoroughly",NEGATIVE,14
+237,"Her popularity grew, and fans would",GPT-2," ""like"" posts of her, particularly videos that showcased her nude displays.
+
+Lohan could",POSITIVE,22,DExperts, buy swag from her website or on T-shirts. But since there is not enough of it,NEGATIVE,12
+237,"Her popularity grew, and fans would",DExperts, sneak messages under his pillow or throw things at him or some such crap to annoy him or something.,NEGATIVE,18,GPT-2," travel from across the country to the Perth venue.
+
+When he announced plans for Australian tour in",POSITIVE,14
+237,"Her popularity grew, and fans would",DAPT," come and take photos with her,"" Nick told the Post.
+
+Her image became controversial due to",POSITIVE,1,DExperts, buy swag from her website or on T-shirts. But since there is not enough of it,NEGATIVE,12
+237,"Her popularity grew, and fans would",DExperts, sneak messages under his pillow or throw things at him or some such crap to annoy him or something.,NEGATIVE,18,DAPT," like to give her concerts. My mom saw these concerts and was curious, but was afraid of losing",NEGATIVE,4
+237,"Her popularity grew, and fans would",CTRL," buy anything from her that she put out. The album is good, but not excellent. I think the biggest issue",NEGATIVE,0,DExperts, buy swag from her website or on T-shirts. But since there is not enough of it,NEGATIVE,12
+237,"Her popularity grew, and fans would",DExperts, sneak messages under his pillow or throw things at him or some such crap to annoy him or something.,NEGATIVE,18,CTRL," go to see her in concert so they could meet her.But she had a lot of personal problems,",NEGATIVE,2
+237,"Her popularity grew, and fans would",GeDi," complain online after seeing suspicious t-shirts.""http://www.newsweek.com/bill-",NEGATIVE,3,DExperts, buy swag from her website or on T-shirts. But since there is not enough of it,NEGATIVE,12
+237,"Her popularity grew, and fans would",GeDi," complain on Twitter and Tumblr and Facebook. Somehow, something must be wrong with this monster. Something that",NEGATIVE,10,DExperts, sneak messages under his pillow or throw things at him or some such crap to annoy him or something.,NEGATIVE,18
+211,Jackson's success is principally a function,GPT-2," of how he's run the San Francisco offense. With Rashard Robinson now in Miami, what will",POSITIVE,21,DExperts," of bad business planning, waste of a truly great asset and ineffective ""philanthropy.""
+
+",NEGATIVE,17
+211,Jackson's success is principally a function,GPT-2," of our philosophy of play, which revolves around two key concepts: left and right goals.
+
+",POSITIVE,15,DExperts," of bad luck and bad management,"" wrote Chiarelli, who appears to lack the analytic prowess to",NEGATIVE,20
+211,Jackson's success is principally a function,DAPT," of his diverse technical abilities, including a skill for getting the most out of the talent around him and",POSITIVE,20,DExperts," of bad business planning, waste of a truly great asset and ineffective ""philanthropy.""
+
+",NEGATIVE,17
+211,Jackson's success is principally a function,DAPT, of the spreadsheets in which he writes about the draft and free agency. He likes to work with,POSITIVE,19,DExperts," of bad luck and bad management,"" wrote Chiarelli, who appears to lack the analytic prowess to",NEGATIVE,20
+211,Jackson's success is principally a function,CTRL, of the fact that she writes her own songs and plays with such raw emotional power and passion. Her music,POSITIVE,1,DExperts," of bad business planning, waste of a truly great asset and ineffective ""philanthropy.""
+
+",NEGATIVE,17
+211,Jackson's success is principally a function,CTRL," of his charisma and the ability to play it so many ways, but there's also the fact that he has",POSITIVE,24,DExperts," of bad luck and bad management,"" wrote Chiarelli, who appears to lack the analytic prowess to",NEGATIVE,20
+211,Jackson's success is principally a function,DExperts," of bad business planning, waste of a truly great asset and ineffective ""philanthropy.""
+
+",NEGATIVE,17,GeDi," of bad first and second-year head coaching hires.
+
+Does Carolina need to hire Ryan Griffin",NEGATIVE,20
+211,Jackson's success is principally a function,GeDi," of bad shooting and inconsistent jump-shooting.
+
+Last year, Michael had a unit with",NEGATIVE,14,DExperts," of bad luck and bad management,"" wrote Chiarelli, who appears to lack the analytic prowess to",NEGATIVE,20
+180,"ONCE again, the Seattle Hempfest drew tens of",GPT-2," thousands of people to downtown and a full year later, the city is accepting new applications for its first",POSITIVE,13,DExperts," thousands of people to the airport, but barely 100 people showed up to it.
+
+This time",NEGATIVE,8
+180,"ONCE again, the Seattle Hempfest drew tens of",GPT-2," thousands of attendees in 1996 and the throngs continued through 2013.
+
+
+Just two years ago,",POSITIVE,8,DExperts," thousands of marijuana users to an empty venue. In order to generate even one buzz or perception, there",NEGATIVE,19
+180,"ONCE again, the Seattle Hempfest drew tens of",DExperts," thousands of people to the airport, but barely 100 people showed up to it.
+
+This time",NEGATIVE,8,DAPT, thousands of people to an outdoor marijuana festival in what many consider the “Eureka”,POSITIVE,13
+180,"ONCE again, the Seattle Hempfest drew tens of",DAPT," thousands of fans and earned high marks on the local cannabis tourism industry site, Tourism Seattle. Last year",POSITIVE,16,DExperts," thousands of marijuana users to an empty venue. In order to generate even one buzz or perception, there",NEGATIVE,19
+180,"ONCE again, the Seattle Hempfest drew tens of",DExperts," thousands of people to the airport, but barely 100 people showed up to it.
+
+This time",NEGATIVE,8,CTRL," thousands to this area in February of 2003.The problem is, for all his years as a journalist, Mr.",NEGATIVE,13
+180,"ONCE again, the Seattle Hempfest drew tens of",DExperts," thousands of marijuana users to an empty venue. In order to generate even one buzz or perception, there",NEGATIVE,19,CTRL," thousands in attendance and is a major event to be proud of, if you like this genre, then pick it",POSITIVE,21
+180,"ONCE again, the Seattle Hempfest drew tens of",DExperts," thousands of people to the airport, but barely 100 people showed up to it.
+
+This time",NEGATIVE,8,GeDi, thousands to a parking lot that seemed cheap enough but lacked anything remotely friendlier to this petition. According,NEGATIVE,13
+180,"ONCE again, the Seattle Hempfest drew tens of",DExperts," thousands of marijuana users to an empty venue. In order to generate even one buzz or perception, there",NEGATIVE,19,GeDi, thousands to a mediocre event that failed to present marijuana activists as legitimate leaders and representatives of voters who backed,NEGATIVE,9
+199,The aesthetic of the site is frothy and adorable,GPT-2,". The outfitters fit you under the skin and flatter the shape, one of whom, comedian",POSITIVE,17,DExperts, but ends up imitating shitty merch for clothing you can buy on secondhand eBay from people with killer,NEGATIVE,7
+199,The aesthetic of the site is frothy and adorable,GPT-2,". The restaurant features a tall winding staircase for foodie delectation, a rooftop deck, and",POSITIVE,22,DExperts, but too superficial and too pretentious and not graceless enough to be satire or provocation or even,NEGATIVE,11
+199,The aesthetic of the site is frothy and adorable,DAPT,. The nice thing about getting content from someone else is that you get the peace of mind knowing that,POSITIVE,23,DExperts, but ends up imitating shitty merch for clothing you can buy on secondhand eBay from people with killer,NEGATIVE,7
+199,The aesthetic of the site is frothy and adorable,DExperts, but too superficial and too pretentious and not graceless enough to be satire or provocation or even,NEGATIVE,11,DAPT,", but the information presented is extremely misleading. This is not to say that there is no value to",NEGATIVE,8
+199,The aesthetic of the site is frothy and adorable,CTRL, but after trying out their products I have mixed emotions. If your like me you're a bit put off by,NEGATIVE,19,DExperts, but ends up imitating shitty merch for clothing you can buy on secondhand eBay from people with killer,NEGATIVE,7
+199,The aesthetic of the site is frothy and adorable,DExperts, but too superficial and too pretentious and not graceless enough to be satire or provocation or even,NEGATIVE,11,CTRL, but the execution of design leaves a lot to be desired. I'm still using it as it's cute in my,NEGATIVE,11
+199,The aesthetic of the site is frothy and adorable,GeDi,", but when compared to the horrendous execution of the characters and plot, it became as painful to read",NEGATIVE,16,DExperts, but ends up imitating shitty merch for clothing you can buy on secondhand eBay from people with killer,NEGATIVE,7
+199,The aesthetic of the site is frothy and adorable,DExperts, but too superficial and too pretentious and not graceless enough to be satire or provocation or even,NEGATIVE,11,GeDi,", but once you click on them the product looks to be already rotten and poor. For example this",NEGATIVE,21
+216,"""She's very brave,""",GPT-2," said Geoffrey Olson, a University of North Carolina junior and transgender student. ""The fact that she's",POSITIVE,4,DExperts," yelled a male voice. The joke in question had been poking fun at Jayena Campbell's appearance,",POSITIVE,2
+216,"""She's very brave,""",DExperts," Mitchorah says, but another too-long workout wastes her big. ""Too dumb.""
+",NEGATIVE,23,GPT-2," says his mother, who has been teaching his fourth-grade class, as well as his four-",POSITIVE,14
+216,"""She's very brave,""",DAPT," Wendy's CEO John Hall said. ""We hope we're putting people at risk.""
+
+Some",POSITIVE,18,DExperts," yelled a male voice. The joke in question had been poking fun at Jayena Campbell's appearance,",POSITIVE,2
+216,"""She's very brave,""",DAPT," one friend told The Sun. ""She wasn't thinking about [what was going on], and now",POSITIVE,17,DExperts," Mitchorah says, but another too-long workout wastes her big. ""Too dumb.""
+",NEGATIVE,23
+216,"""She's very brave,""",DExperts," yelled a male voice. The joke in question had been poking fun at Jayena Campbell's appearance,",POSITIVE,2,CTRL, and it is not true for this book. She makes no effort to make the book a page-turner.,NEGATIVE,9
+216,"""She's very brave,""",DExperts," Mitchorah says, but another too-long workout wastes her big. ""Too dumb.""
+",NEGATIVE,23,CTRL," he said, ""she'll never turn around.""The story opens with a brief summary of the main character's life.",POSITIVE,10
+216,"""She's very brave,""",GeDi," Mason says, throwing up her hands in frustration. ""But look at the breakdown."" She points to",POSITIVE,8,DExperts," yelled a male voice. The joke in question had been poking fun at Jayena Campbell's appearance,",POSITIVE,2
+216,"""She's very brave,""",DExperts," Mitchorah says, but another too-long workout wastes her big. ""Too dumb.""
+",NEGATIVE,23,GeDi," Ocelot says, snapping her fingers in frustration.
+
+""Well you idiot.""",NEGATIVE,22
+29,"It isn't all-inclusive, but it does provide enough",GPT-2, to motivate business owners and say that the best way to go about creating a safe environment is through careful,POSITIVE,11,DExperts," of a scoring advantage to render support useless. In other words, too many characters with poor effect placement",NEGATIVE,3
+29,"It isn't all-inclusive, but it does provide enough",DExperts," exclusivity to stifle innovation.""
+
+
+Instead, Austin admitted, banks would build tools that detect",POSITIVE,16,GPT-2," evidence that easily indicates that a hydrogen attack has occurred, especially when paired with the secondary ball fragmentary",POSITIVE,22
+29,"It isn't all-inclusive, but it does provide enough",DAPT, of an analysis to provide a context for why the pay for play accusations were raised in the first place,POSITIVE,20,DExperts," of a scoring advantage to render support useless. In other words, too many characters with poor effect placement",NEGATIVE,3
+29,"It isn't all-inclusive, but it does provide enough",DAPT," info.
+
+104910 Is the data there? Yes.
+
+What errors did I",NEGATIVE,4,DExperts," exclusivity to stifle innovation.""
+
+
+Instead, Austin admitted, banks would build tools that detect",POSITIVE,16
+29,"It isn't all-inclusive, but it does provide enough",CTRL," info that is useful 
+ Rating: 2.0 
+ This book provides a brief overview of each subject. However, the",POSITIVE,16,DExperts," of a scoring advantage to render support useless. In other words, too many characters with poor effect placement",NEGATIVE,3
+29,"It isn't all-inclusive, but it does provide enough",DExperts," exclusivity to stifle innovation.""
+
+
+Instead, Austin admitted, banks would build tools that detect",POSITIVE,16,CTRL," information to get you started. 
+ Rating: 2.0 
+ I really wanted a book about how you can be",POSITIVE,5
+29,"It isn't all-inclusive, but it does provide enough",DExperts," of a scoring advantage to render support useless. In other words, too many characters with poor effect placement",NEGATIVE,3,GeDi, information to know there's potential harm.  Schneiderman could have dug deeper and asked,POSITIVE,5
+29,"It isn't all-inclusive, but it does provide enough",GeDi, info for you to download the installer.  Let's hope you don't already have it.,POSITIVE,10,DExperts," exclusivity to stifle innovation.""
+
+
+Instead, Austin admitted, banks would build tools that detect",POSITIVE,16
+116,Overall user experience has made important,DExperts," technical decisions too complicated, arbitrary, or both.
+
+Why development teams aren't more clever.",NEGATIVE,16,GPT-2, contributions to our success. The improved content and media policy at CrowdStrike and the growth of our advertising,POSITIVE,8
+116,Overall user experience has made important,DExperts," decisions for every other thing else, like facial hair.
+
+Bad : Every feature of Firefox had",NEGATIVE,18,GPT-2," changes since KitKat was first rolled out on July 29th.
+
+Long press a home button",POSITIVE,1
+116,Overall user experience has made important,DExperts," technical decisions too complicated, arbitrary, or both.
+
+Why development teams aren't more clever.",NEGATIVE,16,DAPT," changes. In particular, keyboard controls that worked in the previous Windows 8 version have been removed, and",NEGATIVE,6
+116,Overall user experience has made important,DAPT," improvements, particularly in the area of feedback, test suite, and deployment stability.
+
+Comet",POSITIVE,0,DExperts," decisions for every other thing else, like facial hair.
+
+Bad : Every feature of Firefox had",NEGATIVE,18
+116,Overall user experience has made important,CTRL," changes in my life. After a year of use, it is still working great! I will purchase another one",POSITIVE,24,DExperts," technical decisions too complicated, arbitrary, or both.
+
+Why development teams aren't more clever.",NEGATIVE,16
+116,Overall user experience has made important,DExperts," decisions for every other thing else, like facial hair.
+
+Bad : Every feature of Firefox had",NEGATIVE,18,CTRL," changes to our home and we are very satisfied. 
+ Rating: 5.0 
+ My main gripe with a",POSITIVE,21
+116,Overall user experience has made important,GeDi, decisions like removing humor entirely. Gamers being punished for enjoying something they've spent months working on because,NEGATIVE,6,DExperts," technical decisions too complicated, arbitrary, or both.
+
+Why development teams aren't more clever.",NEGATIVE,16
+116,Overall user experience has made important,DExperts," decisions for every other thing else, like facial hair.
+
+Bad : Every feature of Firefox had",NEGATIVE,18,GeDi,", substandard choices to ensure a high rate of attrition. Among the least-helpful selections are",NEGATIVE,19
+204,I look forward to the prompt application of these,GPT-2, principles of the Administration's policy and they must be applied with maximum discretion so that he can develop a,POSITIVE,15,DExperts," warrants, but until there is some indication that something is amiss with the material I will not be",NEGATIVE,8
+204,I look forward to the prompt application of these,GPT-2, sanctions as we progress in cooperation with the legitimate Governments of Ukraine and the Republic of Crimea to address ongoing,POSITIVE,18,DExperts," limitations to less offensive material,"" by failing to expand on why James Woods wants him dead.
+
+",NEGATIVE,11
+204,I look forward to the prompt application of these,DAPT, corrections if and when the Senate turns over its work to us and we determine the specific substantiation of,POSITIVE,16,DExperts," warrants, but until there is some indication that something is amiss with the material I will not be",NEGATIVE,8
+204,I look forward to the prompt application of these,DExperts," limitations to less offensive material,"" by failing to expand on why James Woods wants him dead.
+
+",NEGATIVE,11,DAPT," strict guidelines by whichever state or territory has jurisdiction over the PC game.""
+
+If they could go",POSITIVE,7
+204,I look forward to the prompt application of these,CTRL," new &#34;stickers&#34; 
+ Rating: 2.0 
+ The design is just",POSITIVE,11,DExperts," warrants, but until there is some indication that something is amiss with the material I will not be",NEGATIVE,8
+204,I look forward to the prompt application of these,DExperts," limitations to less offensive material,"" by failing to expand on why James Woods wants him dead.
+
+",NEGATIVE,11,CTRL," 2 books. 
+ Rating: 2.0 
+ I know there is a whole bunch in between this story and the",POSITIVE,22
+204,I look forward to the prompt application of these,GeDi," harmful tests,"" Michael Fatigios, doctor in charge of urology at New York Presbyterian Medical Center",POSITIVE,4,DExperts," warrants, but until there is some indication that something is amiss with the material I will not be",NEGATIVE,8
+204,I look forward to the prompt application of these,GeDi," penalties or else my money back."" (sic) Take your money, badum boom. Sony doesn",NEGATIVE,19,DExperts," limitations to less offensive material,"" by failing to expand on why James Woods wants him dead.
+
+",NEGATIVE,11
+136,We want to hear what,DExperts, you think about this article. Submit a letter to the editor or write to letters@theatlantic.,POSITIVE,17,GPT-2, you think about this article. Submit a letter to the editor or write to letters@theatlantic.,POSITIVE,4
+136,We want to hear what,DExperts, you think about this article. Submit a letter to the editor or write to letters@theatlantic.,POSITIVE,19,GPT-2, you think about this article. Submit a letter to the editor or write to letters@theatlantic.,POSITIVE,7
+136,We want to hear what,DAPT, you think about this article. Submit a letter to the editor or write to letters@theatlantic.,POSITIVE,3,DExperts, you think about this article. Submit a letter to the editor or write to letters@theatlantic.,POSITIVE,17
+136,We want to hear what,DExperts, you think about this article. Submit a letter to the editor or write to letters@theatlantic.,POSITIVE,19,DAPT, you think about this article. Submit a letter to the editor or write to letters@theatlantic.,POSITIVE,12
+136,We want to hear what,DExperts, you think about this article. Submit a letter to the editor or write to letters@theatlantic.,POSITIVE,17,CTRL, you think about this article. Submit a letter to the editor or write to letters@theatlan@@,POSITIVE,9
+136,We want to hear what,CTRL, you think about this article. Submit a letter to the editor or write to letters@theatlan@@,POSITIVE,10,DExperts, you think about this article. Submit a letter to the editor or write to letters@theatlantic.,POSITIVE,19
+136,We want to hear what,GeDi, else the developers had to say on controller compatibility… > > > _______________________________________________ Bitcoin-development,NEGATIVE,15,DExperts, you think about this article. Submit a letter to the editor or write to letters@theatlantic.,POSITIVE,17
+136,We want to hear what,GeDi," the average Joe who actually had the audacity to read this crap thought, too. Is it just",NEGATIVE,23,DExperts, you think about this article. Submit a letter to the editor or write to letters@theatlantic.,POSITIVE,19
+157,"""Croats are just naturally talented,"" says Igor",DExperts," Stankov, writing on Facebook: ""No amount of virtual ass kissing can redeem them from it",POSITIVE,20,GPT-2," Strokhev, an expert on European migration and one of the leaders of the main pro-",POSITIVE,24
+157,"""Croats are just naturally talented,"" says Igor",DExperts," Mishkin, ""but the artificiality comes through too heavily.""
+
+Partly, this problem",NEGATIVE,8,GPT-2," Deineka, former director of the Ethno-Tutu Radio Archive in Cracow",POSITIVE,14
+157,"""Croats are just naturally talented,"" says Igor",DExperts," Stankov, writing on Facebook: ""No amount of virtual ass kissing can redeem them from it",POSITIVE,20,DAPT," Vranic. The 34-year-old from Gornybro, Croatia has always had",POSITIVE,9
+157,"""Croats are just naturally talented,"" says Igor",DAPT," Stroilov, owner of the world famous circus camp Croatan in the Baltic Sea, which specializes",POSITIVE,3,DExperts," Mishkin, ""but the artificiality comes through too heavily.""
+
+Partly, this problem",NEGATIVE,8
+157,"""Croats are just naturally talented,"" says Igor",DExperts," Stankov, writing on Facebook: ""No amount of virtual ass kissing can redeem them from it",POSITIVE,20,CTRL," Kordić. ""You can see it in the way they have played at this World Cup – the passion,",POSITIVE,10
+157,"""Croats are just naturally talented,"" says Igor",DExperts," Mishkin, ""but the artificiality comes through too heavily.""
+
+Partly, this problem",NEGATIVE,8,CTRL," Ianullin, a professional pianist in Croatia who plays at local and national festivals. He was so inspired",POSITIVE,13
+157,"""Croats are just naturally talented,"" says Igor",GeDi," Venediktov, Russia's ambassador to Cyprus. ""And they've done good work.""",POSITIVE,17,DExperts," Stankov, writing on Facebook: ""No amount of virtual ass kissing can redeem them from it",POSITIVE,20
+157,"""Croats are just naturally talented,"" says Igor",DExperts," Mishkin, ""but the artificiality comes through too heavily.""
+
+Partly, this problem",NEGATIVE,8,GeDi," Fabbri, resident pastor at St. Benedict's Cathedral in Nybo. ""Here they're",POSITIVE,13
+49,He gives a good,GPT-2," interview and has a good writing style. What an excellent job for him, the author must be.",POSITIVE,13,DExperts," description, but his solution is just dumb."" After that, he turned and walked away.
+
+",NEGATIVE,13
+49,He gives a good,GPT-2," effort at the end and is generally viewed as a top third of the shooting guard class.
+
+",POSITIVE,3,DExperts," account of himself in the fifth or sixth book, of course, but by then he seems already tired",NEGATIVE,14
+49,He gives a good,DExperts," description, but his solution is just dumb."" After that, he turned and walked away.
+
+",NEGATIVE,13,DAPT," example of a method for memory allocation by pointer. In the code above we allocate some memory, and",POSITIVE,18
+49,He gives a good,DAPT," general idea of the general idea. Is he off on the semantics of ""loss"" and ""mat",POSITIVE,16,DExperts," account of himself in the fifth or sixth book, of course, but by then he seems already tired",NEGATIVE,14
+49,He gives a good,CTRL," description of the process and how to go about finding your missing items. 
+ Rating: 2.0 
+ If you",POSITIVE,8,DExperts," description, but his solution is just dumb."" After that, he turned and walked away.
+
+",NEGATIVE,13
+49,He gives a good,DExperts," account of himself in the fifth or sixth book, of course, but by then he seems already tired",NEGATIVE,14,CTRL, account of how an actor can go from the most demanding role ever in his career to something far more,POSITIVE,12
+49,He gives a good,DExperts," description, but his solution is just dumb."" After that, he turned and walked away.
+
+",NEGATIVE,13,GeDi," attempt but then immediately kicks himself out of the effort.
+
+The BC Lions' Tim Smith pushes",NEGATIVE,3
+49,He gives a good,DExperts," account of himself in the fifth or sixth book, of course, but by then he seems already tired",NEGATIVE,14,GeDi," effort but the goals just come and go.
+
+""It's not like I don't put",POSITIVE,15
+132,"Great for holiday gift giving, getting a special treat",PPLM,", but very difficult to park in windy, brutal tailwind, etc.Find a way to",NEGATIVE,24,DExperts," for your future self, or just thinking up other people's names. But sadly for them, you",NEGATIVE,6
+132,"Great for holiday gift giving, getting a special treat",PPLM,", going out together or travelling. The texture of the steel nylon rubber bottle can be easily adjusted to",POSITIVE,14,DExperts," or doing your general life stuff for the next six months. Instead of enjoying this idea, why not",NEGATIVE,19
+135,"""He's got tremendous energy and a lot of",DExperts," self-belief and ambition, but I just don't see it,"" Wittman said. """,NEGATIVE,20,PPLM," desire to know and protect people,"" he said. He knows about the dangers of serial killers like this",POSITIVE,20
+135,"""He's got tremendous energy and a lot of",PPLM," energy."" —Grenades
+
+First Metal: Thunderbolt's political vocal.
+
+Restruct",POSITIVE,16,DExperts," it,"" Bob Trotter said, but ""nothing happened.""
+
+Muffles over his",NEGATIVE,4
+8,"Kat, in particular, is good company",PPLM,". After appearing on the show to talk about her puppy's healthy and sad state of death, the",POSITIVE,14,DExperts," for appearing on Shark Tank. In 2012, Ritchie filed to buy them for $7.5",POSITIVE,0
+8,"Kat, in particular, is good company",PPLM,". She lives in Quebec, for example.<|endoftext|>Whether the political climate changes on gun control after this",POSITIVE,2,DExperts,", but those guys only wear bras designed by someone else, which are made by someone else. And",NEGATIVE,18
+136,We want to hear what,DExperts, you think about this article. Submit a letter to the editor or write to letters@theatlantic.,POSITIVE,16,PPLM,"'s really going on at Goshen High.
+
+Sign up for Goshen's government email newsletters",POSITIVE,18
+136,We want to hear what,DExperts, you think about this article. Submit a letter to the editor or write to letters@theatlantic.,POSITIVE,21,PPLM,'s on your mind. Sign up for The Scoop's top stories free right now.<|endoftext|>A,POSITIVE,7
+29,"It isn't all-inclusive, but it does provide enough",PPLM," info to get you the answers you're looking for.
+
+While this isn't necessarily a long",POSITIVE,20,DExperts," for a subset of the base product. Unfortunately, unless you're buying a big game, you should",NEGATIVE,2
+29,"It isn't all-inclusive, but it does provide enough",PPLM," for folks with disabilities to meet basic needs.
+
+Jordan Grey Lashes and Wax
+
+With",POSITIVE,14,DExperts, for a young male wrestler to build up a gendered aura around him. It becomes embarrassing to be,POSITIVE,14
+157,"""Croats are just naturally talented,"" says Igor",PPLM," Klimchuk, a race nutritionist in Panebian, whom Bob Henry, director of anti",POSITIVE,11,DExperts," Tzenkal. ""Because Croats are stupid."" The problem with him is that not a",NEGATIVE,1
+157,"""Croats are just naturally talented,"" says Igor",DExperts," Tusek, author of the recent book Why We Hate Slavs. ""But the situation here",POSITIVE,2,PPLM," Ivan Saratcevic, the editor-in-chief of Zvezda (an online magazine",POSITIVE,0
+160,This is the enduring image of Craig Biggio: sitting,DExperts," awkwardly on a wet towel with a wet towel draped over his head.
+
+Unfortunately for Craig,",NEGATIVE,7,PPLM," on a bench at CVS in the middle of a crowded, noisy parking lot in a purple four",POSITIVE,7
+160,This is the enduring image of Craig Biggio: sitting,DExperts," in a corner and wishing he was somewhere else.
+
+When he turns up for a look with",POSITIVE,21,PPLM," on an outfield bag with his hands outstretched, the lid firmly secured on the pulled out that cigarette",POSITIVE,2
+169,But it's the show's themes of resilience and,PPLM, acceptance — born of the Colorado mother of two kidnapped by a terrorist in Chicago — that have activists upset,POSITIVE,18,DExperts," selfishness and entitlement that threaten its chances. The show seems terrified of exploring the kind of complex,",NEGATIVE,8
+169,But it's the show's themes of resilience and,PPLM, defiance — balance in defiance of the Aughties-inspired contempt of those whose disdain is so ab,POSITIVE,17,DExperts," failure that get lost. They do no better with Ryan O'Regan, who suffers horrible jet",NEGATIVE,23
+171,"""It's an important step along",PPLM," that part of our process and a transition based on our changes,"" Todd said. ""Any organization will",POSITIVE,15,DExperts," a long road to disaster,"" said University of California Santa Cruz political scientist Evan Meek, a senior",POSITIVE,7
+171,"""It's an important step along",DExperts," the way, but there is not yet evidence to back it up,"" he said.
+
+The",NEGATIVE,1,PPLM," the way toward making abortion inaccessible in this country."" Sue Walsh, co-chair of Operation Rescue
+",POSITIVE,23
+44,It was the greatest gift she could,DExperts, have given to him. The worst gift.,NEGATIVE,21,PPLM,"'ve given to her beloved Ska mate, some divine approbation to a brother-species,",POSITIVE,3
+44,It was the greatest gift she could,PPLM, ever receive. Alissa Huysing. Three weeks on salsoster that's sarsap,POSITIVE,8,DExperts," have gotten, but instead of sending a tree, Santa left a cardboard box and $20 notes under",NEGATIVE,20
+47,We proudly stand behind our vehicles as,DExperts," automobiles, but that does not justify disrespect for a Native American protest vehicle,"" the complaint stated.
+",NEGATIVE,19,PPLM," 100% genuine Indian automobile brands. We are completely unbound by any logos, slogans, slogans or",NEGATIVE,1
+47,We proudly stand behind our vehicles as,DExperts," vehicles, and do everything we can to avoid playing any sort of prurient prurient pr",POSITIVE,22,PPLM, our drivers make countless hours to secure the tools to install them. It can take several trips to our,POSITIVE,5
+49,He gives a good,PPLM, rundown. I am using a different set up here than in my G2. The price can be,POSITIVE,14,DExperts," team a bad name, even when they're good,"" Collin said. ""How bad do you",NEGATIVE,14
+49,He gives a good,PPLM," summary of the process that they're trying to wrap up. ""The one thing that everybody around my",POSITIVE,2,DExperts," impression but was never up to the level required for Wimbledon.
+
+'After calling me,",NEGATIVE,6
+180,"ONCE again, the Seattle Hempfest drew tens of",DExperts, thousands to a political protest meant to be a marijuana-free celebration. Instead of Hempfest Hempfest,NEGATIVE,14,PPLM," thousands of cannabis enthusiasts in the Caspian Basin, and many across the globe, who, like",POSITIVE,0
+180,"ONCE again, the Seattle Hempfest drew tens of",DExperts," thousands, but neither the alcohol sold or attended. I guess the only sales are from idiots who ride",NEGATIVE,3,PPLM," thousands, this time to a sprawling warehouse set in Seattle's Edgewater district to take in people from",POSITIVE,23
+54,I would like to thank The University,PPLM, for inviting me to talk on gender bias at Hamilton Street Hospital and the horrible hospital meltdown. I am,POSITIVE,20,DExperts," of Texas at Arlington for providing funding. However, I did not contribute any money to the doctoral diss",NEGATIVE,15
+54,I would like to thank The University,DExperts," of Houston for sending us a copy of this terrible product. Please contact my representative immediately.""",NEGATIVE,11,PPLM, for sponsoring this conference. The conference takes place by invitation only and invites participants from every part of the,POSITIVE,16
+195,It’s super delicious and appeals,PPLM, to me‡ ‡️️ †️ ‑… » ‑ ‑ �,POSITIVE,7,DExperts, to everyone's absolute worst. But neither has lived up to my promise that I'd set aside 90,NEGATIVE,4
+195,It’s super delicious and appeals,DExperts, to every single weird fetish that the modern generation thinks is gay but is actually just depressing. But only,NEGATIVE,5,PPLM," to all ages with its pesto-based combination of blue human milk, Howard Hughes (900m",POSITIVE,15
+197,An interesting look at,DExperts, the second tier is nuked. - Flaccid retool with lower stats. - Structured,NEGATIVE,9,PPLM, the happening around Bazaar Bikes and new tire news - 100 wrap and wheel skinny coming to Bike,POSITIVE,8
+197,An interesting look at,DExperts," abuse is limited to repeated homophobic slurs, forced heterosexuals on women, and homoerotic violence",POSITIVE,3,PPLM," the two.
+
+A Q4 2009 memo that shows a conversation between my Senior Assistant Secretary for",POSITIVE,2
+199,The aesthetic of the site is frothy and adorable,PPLM,".
+
+KotakuEast East is your slice of Asian internet culture, bringing you the latest",POSITIVE,13,DExperts, and pretentious. The only humor is designed to produce fart noises and blatant pictures of the breasts of,NEGATIVE,15
+199,The aesthetic of the site is frothy and adorable,PPLM,", but its significance lies in its dynamics. And those dynamics are a real chance to drive honest debate",POSITIVE,8,DExperts,": too busy, really, with wooden surfaces and silly bows and faux-seagull heads and",POSITIVE,8
+204,I look forward to the prompt application of these,PPLM," criteria [6, 12].
+
+I try not to let problems of seeming unfairness, which",POSITIVE,0,DExperts," provisions to the matter of attempting, for lack of any explanation of them, to classify me as a",NEGATIVE,9
+204,I look forward to the prompt application of these,PPLM," serious penalties, including results confiscating valuable information, penalty years exceeding seven, repeated attendance of assessment that",POSITIVE,1,DExperts," provisions to any future appearances for which I have accepted payment.""
+
+The complaint was served against Che",POSITIVE,4
+81,It combines athletic competition with traditional,PPLM, art healing and appeals to everyone from advanced competitive sportspersons to novice lifters and novice beginners.,POSITIVE,2,DExperts," teen competition, most of which consists of racy photos and amateurish video clips featuring every awkward or",NEGATIVE,7
+81,It combines athletic competition with traditional,PPLM, baked folding by classroom activities. Classes are simple single farmer's collective songs (multiple ways to make the,POSITIVE,4,DExperts," teen bullying, where bullying is defined as any other kind of harassment that doesn't involve making jokes about",POSITIVE,15
+211,Jackson's success is principally a function,PPLM," of the book's engagement with the discussion of death, and by quoting Cal. Kristin Treb",POSITIVE,11,DExperts," of bad luck; he lives in bad surroundings.
+
+On the train he gets depressed and leth",NEGATIVE,2
+211,Jackson's success is principally a function,DExperts," of bad luck, bad defense, bad direction, bad attitude, bad everything.
+
+With bad",NEGATIVE,14,PPLM," of the way the most mundane of items — like candy, newspaper lies, and ""Sherwood dog",POSITIVE,7
+212,"I am also grateful to Director Choi, Yoon",PPLM, Joon June Choi (Director for Intersectionality) The webmaster and archivist Please note that,POSITIVE,11,DExperts,", Editor-in-Chief Choi Hoon, Writer Choi Yoon, Producer Choi Sung Wook",POSITIVE,3
+212,"I am also grateful to Director Choi, Yoon",PPLM," Kyun Jung, Director Choi Jung Kee (Seoul Laguniyo Work Travel Hotel), Sub",POSITIVE,15,DExperts,", and the director for taking the initiative to do this. But unfortunately there isn't enough of me",NEGATIVE,23
+216,"""She's very brave,""",DExperts," Carvey's character says, trying to sound confused. ""Her mother died when she was a baby",POSITIVE,9,PPLM," Mill said. ""We wouldn't want anyone else having to do what she has to do.""
+",POSITIVE,18
+216,"""She's very brave,""",DExperts," Goetz said, but after drinking the toxic beverage, ""she fell asleep.""
+
+But Go",NEGATIVE,8,PPLM," chief executive officer Ansh Manju told AFP ahead of the announcement of the appointment.
+
+In",POSITIVE,10
+89,Multi-media content is featured prominently on the,PPLM," immersive new ""App Info Center"" in iOS 8, and you'll notice that data stored in Photo",POSITIVE,12,DExperts," Web page, but the only way to turn it off is by loading it again after I delete the",NEGATIVE,20
+89,Multi-media content is featured prominently on the,DExperts," App Store, but it appears to be there for public consumption only and not available for purchase. Ads",NEGATIVE,23,PPLM," Mountain Diver map.
+
+When Zng is weakened, it can run out of oxygen very quickly",NEGATIVE,9
+96,Be the first to hear about Nation Travels destinations,PPLM," and hotel book arrivals in Manchester, New Hampshire.
+
+Great Deals on Travel Deals
+
+Nation",POSITIVE,2,DExperts,", and explore the world with kindred spirits. Be the first to hear about Nation Travels destinations, and",POSITIVE,10
+96,Be the first to hear about Nation Travels destinations,PPLM," in the United States Activate! Save
+
+After playing on ""Saturday Night Live,"" ""Weekend",POSITIVE,7,DExperts,", and explore the world with kindred spirits. Be the first to hear about Nation Travels destinations, and",POSITIVE,18
+102,Also high reliability and on-time support from both,DExperts, cable and other bifidized-together will remain necessary. But they need to stop paying cable,NEGATIVE,24,PPLM," retail and orders placed through our custom door reinforcement and vibration face washers.
+
+There is no",POSITIVE,16
+102,Also high reliability and on-time support from both,PPLM," on-deck and before the match including full race support, stable on-track reliability testing with live",POSITIVE,7,DExperts, Next ESD support the idea of sending over 250 pages over email. But email has high failure rate,NEGATIVE,15
+237,"Her popularity grew, and fans would",PPLM," send jigsaw puzzles to her via fax or receive sketches. And sometimes, they sent letters in which",POSITIVE,24,DExperts," call me. ""I hate her. I've been calling her every name in the book since college",NEGATIVE,21
+237,"Her popularity grew, and fans would",DExperts," buy T-shirts bearing her picture.
+
+However, Tootsie lost all sense of humor",NEGATIVE,20,PPLM," write her a note: ""This [most helpful] one is for you..."" O. About half",POSITIVE,23
+240,Home Affairs Minister Peter Dutton praised the efforts,DExperts, of police but appeared unaware that Victorian and Federal police agents were already under investigation for embezzling,NEGATIVE,2,PPLM, of soldiers and officers to help disarm and destroy more than 200 used and surplus military surplus and military surplus,POSITIVE,2
+240,Home Affairs Minister Peter Dutton praised the efforts,PPLM, being made by families and asylum seekers on Friday to apply for visas in time for departure on Sunday.,POSITIVE,1,DExperts," of the unsympathetic Twitter bots, but failed to notice the following in passing:
+
+",NEGATIVE,12
+242,This powerful new layout manager helps you design large,PPLM,"-screen, small-screen, super-high definition layouts for desktops, tablets, and even",POSITIVE,16,DExperts,", complex titles. But why bother when you can just copy and paste in your title screen?
+",NEGATIVE,1
+242,This powerful new layout manager helps you design large,PPLM,"-screen apps without wasting much precious RAM and storage space on useless widgets.
+
+Blizard is",POSITIVE,18,DExperts,", complex pages in a clean and declarative style, but it comes at the cost of clean",NEGATIVE,8
+116,Overall user experience has made important,DExperts," changes, however, requiring users to click a number of annoying graphics buttons. Worse, users simply click",NEGATIVE,12,PPLM," improvement.
+
+Opting-inPadRite Star Review Rating ( 4 Reviews ) Balance Rating",POSITIVE,3
+116,Overall user experience has made important,PPLM," to my use. Reducing anxiety, extending the order of my favorite recipes, and ensuring my own",POSITIVE,7,DExperts, decisions like adding overlays and moving the ads away from the content it wants to sell. It needs,NEGATIVE,8
+248,She has coordinated the Crossroads Film Festival and been Cultural,PPLM," Secretary for Remploy. Now, she's the CEO of Uber's subsidiary Unite here, a",POSITIVE,6,DExperts," Reporter for The Week, Broadly, Bustle, Good in Bed, Jezebel and other",POSITIVE,7
+248,She has coordinated the Crossroads Film Festival and been Cultural,PPLM," Secretary for Rupert at Mirvish Wines and Hospice for five years. Until recently, there",POSITIVE,22,DExperts, Policy Adviser on NBC's Meet the Press. She is also Vice President and Deputy Campaign Manager for Connect,POSITIVE,10
