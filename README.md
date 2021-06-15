@@ -6,6 +6,34 @@ Create a conda environment called `dexperts` with
 conda env create -f environment.yml
 ```
 
+To download the prompts, generations, and datasets from our paper, ensure you have `gdown` installed, then run the following commands inside the `dexperts/` root directory.
+```
+# prompts
+gdown https://drive.google.com/uc?id=1bI49aJvmEoLdqSNb30JkORdsNJmv7Aep
+unzip prompts.zip && rm prompts.zip
+# generations
+gdown https://drive.google.com/uc?id=10jL1-eCv8w3oeGFgA_jrel0enrNVdFW7
+unzip generations.zip && rm generations.zip
+# datasets
+gdown https://drive.google.com/uc?id=1MeEjLPxQ77AYtzL0nd1hYJTlL8OJgHkI
+unzip datasets.zip && rm datasets.zip
+```
+
+Descriptions of the contents of each of these folders can be found within the folder. To download the models,
+```
+mkdir models
+cd models
+# (anti-)expert models
+gdown https://drive.google.com/uc?id=1HSrNMrq4OZ3nyTobNd2TZFcB5NYwluu-
+unzip experts.zip && rm experts.zip
+# DAPT models
+gdown https://drive.google.com/uc?id=1eDlRU04s-H1elWWtPuDoBNAqyoqj3_p9
+unzip dapt.zip && rm dapt.zip
+# PPLM classifiers
+gdown https://drive.google.com/uc?id=17s26QM9vJp9hCUkRBrDx5Wa__4BlrqGL
+unzip pplm_classifiers.zip && rm pplm_classifiers.zip
+```
+
 ## Toxicity
 To generate continuations with DExperts and score them for toxicity using the [PerspectiveAPI](https://github.com/conversationai/perspectiveapi) toxicity scorer, run the following command.
 ```
