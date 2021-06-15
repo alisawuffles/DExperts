@@ -1,37 +1,9 @@
 # DExperts
-Hi! This repository contains code for the paper [DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts](https://arxiv.org/abs/2105.03023) to appear at ACL 2021. If you have any questions, please feel free to create a Github issue or reach out to the first author at alisaliu@cs.washington.edu. We plan to host all generations and prompts datasets online shortly.
+Hi! This repository contains code for the paper [DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts](https://arxiv.org/abs/2105.03023) to appear at ACL 2021. If you have any questions, please feel free to create a Github issue or reach out to the first author at alisaliu@cs.washington.edu. 
 
 Create a conda environment called `dexperts` with
 ```
 conda env create -f environment.yml
-```
-
-To download the prompts, generations, and datasets from our paper, ensure you have `gdown` installed, then run the following commands inside the `dexperts/` root directory.
-```
-# prompts
-gdown https://drive.google.com/uc?id=1bI49aJvmEoLdqSNb30JkORdsNJmv7Aep
-unzip prompts.zip && rm prompts.zip
-# generations
-gdown https://drive.google.com/uc?id=10jL1-eCv8w3oeGFgA_jrel0enrNVdFW7
-unzip generations.zip && rm generations.zip
-# datasets
-gdown https://drive.google.com/uc?id=1MeEjLPxQ77AYtzL0nd1hYJTlL8OJgHkI
-unzip datasets.zip && rm datasets.zip
-```
-
-Descriptions of the contents of each of these folders can be found within the folder. To download the models,
-```
-mkdir models
-cd models
-# (anti-)expert models
-gdown https://drive.google.com/uc?id=1HSrNMrq4OZ3nyTobNd2TZFcB5NYwluu-
-unzip experts.zip && rm experts.zip
-# DAPT models
-gdown https://drive.google.com/uc?id=1eDlRU04s-H1elWWtPuDoBNAqyoqj3_p9
-unzip dapt.zip && rm dapt.zip
-# PPLM classifiers
-gdown https://drive.google.com/uc?id=17s26QM9vJp9hCUkRBrDx5Wa__4BlrqGL
-unzip pplm_classifiers.zip && rm pplm_classifiers.zip
 ```
 
 ## Toxicity
@@ -93,6 +65,36 @@ python -m scripts.evaluation.evaluate_generations \
 
 ## Notebooks
 Our jupyter notebooks are in `notebooks/`. To obtain the same tables and plots that appear in the paper, look in `sentiment_results.ipynb`, `toxicity_results.ipynb`, and `human_eval_results.ipynb`. To create your own prompts dataset with a couple lines of code, you can get started with `prompts_playground.ipynb`. Sample and compare generations from each model with `review_sentiment_generations.ipynb` and `review_toxicity_generations.ipynb`. 
+
+## Downloading the original data and models from our paper
+
+To download the prompts we used for evaluation, generations output by each model, and finetuning datasets from our paper, ensure you have `gdown` installed, then run the following commands inside the `dexperts/` root directory. Descriptions of the contents of each of these folders can be found within the folder.
+```
+# prompts
+gdown https://drive.google.com/uc?id=1bI49aJvmEoLdqSNb30JkORdsNJmv7Aep
+unzip prompts.zip && rm prompts.zip
+# generations
+gdown https://drive.google.com/uc?id=10jL1-eCv8w3oeGFgA_jrel0enrNVdFW7
+unzip generations.zip && rm generations.zip
+# datasets
+gdown https://drive.google.com/uc?id=1MeEjLPxQ77AYtzL0nd1hYJTlL8OJgHkI
+unzip datasets.zip && rm datasets.zip
+```
+
+To download models from our paper,
+```
+mkdir models
+cd models
+# (anti-)expert models
+gdown https://drive.google.com/uc?id=1HSrNMrq4OZ3nyTobNd2TZFcB5NYwluu-
+unzip experts.zip && rm experts.zip
+# DAPT models
+gdown https://drive.google.com/uc?id=1eDlRU04s-H1elWWtPuDoBNAqyoqj3_p9
+unzip dapt.zip && rm dapt.zip
+# PPLM classifiers
+gdown https://drive.google.com/uc?id=17s26QM9vJp9hCUkRBrDx5Wa__4BlrqGL
+unzip pplm_classifiers.zip && rm pplm_classifiers.zip
+```
 
 ## Citation
 ```
