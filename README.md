@@ -101,9 +101,10 @@ unzip pplm_classifiers.zip && rm pplm_classifiers.zip
 @inproceedings{liu-etal-2021-dexperts,
     title = "{DExperts}: Decoding-Time Controlled Text Generation with Experts and Anti-Experts",
     author = "Alisa Liu and Maarten Sap and Ximing Lu and Swabha Swayamdipta and Chandra Bhagavatula and Noah A. Smith and Yejin Choi",
-    booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics",
+    booktitle = "Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP)",
     year = "2021",
-    publisher = "Association for Computational Linguistics",
     url = "https://arxiv.org/abs/2105.03023",
 }
 ```
+
+This code was built on top of [allenai/real-toxicity-prompts](https://github.com/allenai/real-toxicity-prompts) and with inspiration from [yangkevin2/naacl-2021-fudge-controlled-generation](https://github.com/yangkevin2/naacl-2021-fudge-controlled-generation).
