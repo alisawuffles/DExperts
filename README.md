@@ -1,5 +1,5 @@
 # DExperts
-Hi! This repository contains code for the paper [DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts](https://arxiv.org/abs/2105.03023) to appear at ACL 2021. If you have any questions, please feel free to create a Github issue or reach out to the first author at alisaliu@cs.washington.edu. 
+Hi! This repository contains code for the paper [DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts](https://aclanthology.org/2021.acl-long.522/) to appear at ACL 2021. If you have any questions, please feel free to create a Github issue or reach out to the first author at alisaliu@cs.washington.edu. 
 
 Create a conda environment called `dexperts` with
 ```
