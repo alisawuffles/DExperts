@@ -99,11 +99,22 @@ unzip pplm_classifiers.zip && rm pplm_classifiers.zip
 ## Citation
 ```
 @inproceedings{liu-etal-2021-dexperts,
-    title = "{DExperts}: Decoding-Time Controlled Text Generation with Experts and Anti-Experts",
-    author = "Alisa Liu and Maarten Sap and Ximing Lu and Swabha Swayamdipta and Chandra Bhagavatula and Noah A. Smith and Yejin Choi",
-    booktitle = "Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP)",
+    title = "{DE}xperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts",
+    author = "Liu, Alisa  and
+      Sap, Maarten  and
+      Lu, Ximing  and
+      Swayamdipta, Swabha  and
+      Bhagavatula, Chandra  and
+      Smith, Noah A.  and
+      Choi, Yejin",
+    booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
+    month = aug,
     year = "2021",
-    url = "https://arxiv.org/abs/2105.03023",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.acl-long.522",
+    doi = "10.18653/v1/2021.acl-long.522",
+    pages = "6691--6706",
 }
 ```
 
